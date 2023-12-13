@@ -1,0 +1,11 @@
+{
+  "name": "main",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
